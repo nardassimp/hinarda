@@ -8,7 +8,14 @@
 	padding-top: 15%;
 }
 h1{font-size: 60px;margin-bottom: 30px;}
-.love, .no a{text-decoration: none;
+.love a{text-decoration: none;
+	background: #eee;
+	padding: 5px;
+	margin: 5px 10px;
+	border:3px solid #ddd;
+	border-radius: 10px;
+}
+.no a{text-decoration: none;
 	background: #eee;
 	padding: 5px;
 	margin: 5px 10px;
