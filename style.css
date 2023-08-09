@@ -1,5 +1,5 @@
 *{padding: 0;margin: 0;}
-.container{height: 100vh;
+.container, .yes {height: 100vh;
 			width: 100vw;
 			color:#444;
 			background:#a8d6f0 ;
